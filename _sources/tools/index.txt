@@ -1,0 +1,68 @@
+.. _tools:
+
+Tools
+#####
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming</h3>
+
+.. include:: ../def.rst
+
+----
+
+Git Hub
+*************
+
+Distribution of starting files for assignements and assignment submission will be organized through Git Hub.
+You need to complete the following steps:
+
+* Create a GitHub account (if you already have an account, you can reuse your existing account)
+* Ensure that Git is installed on your computer as appropriate for your operating system (e.g., use GitBash for Windows)
+* Register your GitHub account with the CS 301 TAs using this `form <https://goo.gl/forms/9LDwd1y8ynnz8Joy1>`__ to ensure your own personal 301 HW GitHub repo is created for you.  Note that your eID is the username you enter for any university computer system, it is the prefix to your email address. It is not the 9 digits on the top of your student ID, that is your WID. If you have entered your WID instead, you will need to go back and fill out the form again.
+* Wait for invitation from CS 301 TAs
+* Accept invitation
+* Clone your repo (this may be best done via IntelliJ after the Sireum IVE is installed)
+
+You will be able to access the local version of your repo through the Sireum IVE to carry out HW retreival and submission.
+
+Sireum Logika
+*************
+
+`Logika <http://logika.sireum.org>`__ is a program verifier and
+a natural deduction proof checker for propositional, predicate, and programming
+logics.  Logika is part of a much larger analysis and verification framework developed by |Robby| called Sireum.
+
+**It is crucial that you get set up to use Logika during the first week of class. We will use Logika every week in class, and almost all homework assignments will use it.**
+
+There are two ways of getting set up to use Logika (actually, these methods also provide the entire Sireum framework, but we will only use and talk about the Logika part):
+
+* [Personal installation] You can install it own your own computer
+* [CS Lab installation (direct use and remote desk top)] You can use it via the K-State CS Lab machines
+
+Logika can be used in a nice IntelliJ-based Integrated Verification Environment (Sireum/Logika IVE) (this is what we recommend for doing
+all your classroom exercises and homework).
+There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI) (you can use this if you love command line interfaces, but we recommend the IVE).
+
+For a Personal Installation, please follow the installation instructions on the `Logika web site <http://logika.sireum.org/doc/01-getting-started/index.html>`__
+
+Instructions for using the CS Lab installation will be posted soon.
+
+Z3
+**
+Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
+developed at the Research in Software Engineering (RiSE) group in Microsoft
+Research.
+
+We will use Z3 in one lecture early in the course, and then we will refer to it throughout the rest of the course.
+
+Fortunately, you do not have to install Z3.
+
+* It is already included in the Sireum Logika installation (in both the Personal installation and CS Lab installations).  It can be found under ``SIREUM_HOME/apps/z3`` (or ``SIREUM_HOME\apps\z3`` in Windows OS).
+* There is a web-based `Online version <http://rise4fun.com/z3>`__ which is good enough for playing around or doing the Z3-related homework assignment.
+
+Many interesting analysis, verification, and testing tools (including tools developed by Microsoft) use Z3.  You can find out more about Z3 using the links below:
+
+* `Website <https://github.com/z3prover/z3/wiki>`__
+* `Introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
+
