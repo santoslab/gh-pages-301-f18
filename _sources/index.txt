@@ -33,9 +33,9 @@ The focus will be on formal logics for reasoning about program behavior.
                                                     Office Hours: TBA
 **Teaching Assistant**                              Joydeep Mitra,
                                                     Office Hours: TBA
-**E-mail**                                          ``help-301@santoslab.org`` -- Use this address for all questions about lectures,
-                                                    homework, and appointments -- do not email the TAs or instructor
-                                                    directly.  Do not use Canvas messaging to contact us.
+**E-mail**                                          ``help-301@santoslab.org`` Use this address for all questions about
+                                                    lectures, homework, and appointments -- do not email the TAs
+                                                    or instructor directly.  Do not use Canvas messaging to contact us.
 
                                                     If you have a question about a homework, be sure to push your work
                                                     to your Github repo before emailing.  Emailing screen shots and
