@@ -78,19 +78,17 @@ Instructor
 
 `John Hatcliff <http://cs.k-state.edu/~hatcliff>`__,
 Office:       2160 |EngHall|,
-Office Hours: 9:30-10:45am Tuesday and Thursday
+Office Hours: 11-11:45am Tuesday and Thursday
 
 
 Graduate Teaching Assistants
 ****************************
 
 * Joydeep Mitra,
-  Office:       TBA
-  Office Hours: TBA
+  Office Hours: 2.30 - 4PM, in room 2206, Friday
 
 * George (Bud) LaVezzi,
-  Office:       TBA
-  Office Hours: TBA
+  Office Hours: 3:30 - 4:30 PM, in room 1117, Monday and Wednesday
 
 
 Grading

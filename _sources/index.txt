@@ -30,9 +30,9 @@ The focus will be on formal logics for reasoning about program behavior.
                                                     Office:       2183 |EngHall|,
                                                     Office Hours: 11-11:45am Tuesday and Thursday,
 **Teaching Assistant**                              George (Bud) LaVezzi,
-                                                    Office Hours: TBA
+                                                    Office Hours: 3:30 - 4:30 PM, in room 1117, Monday and Wednesday
 **Teaching Assistant**                              Joydeep Mitra,
-                                                    Office Hours: TBA
+                                                    Office Hours: 2.30 - 4PM, in room 2206, Friday
 **E-mail**                                          ``help-301@santoslab.org`` Use this address for all questions about
                                                     lectures, homework, and appointments -- do not email the TAs
                                                     or instructor directly.  Do not use Canvas messaging to contact us.
