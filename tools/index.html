@@ -107,12 +107,11 @@ You need to complete the following steps:</p>
 <ul class="simple">
 <li>Create a GitHub account (if you already have an account, you can reuse your existing account)</li>
 <li>Ensure that Git is installed on your computer as appropriate for your operating system (e.g., use GitBash for Windows)</li>
-<li>Register your GitHub account with the CS 301 TAs using this <a class="reference external" href="https://goo.gl/forms/9LDwd1y8ynnz8Joy1">form</a> to ensure your own personal 301 HW GitHub repo is created for you.  Note that your eID is the username you enter for any university computer system, it is the prefix to your email address. It is not the 9 digits on the top of your student ID, that is your WID. If you have entered your WID instead, you will need to go back and fill out the form again.</li>
+<li>Register your GitHub account with the CS 301 TAs using this <a class="reference external" href="https://docs.google.com/spreadsheets/d/1luMt1uHmiAYU8ZU4ZdTUXlxQuPZ6IDo0FT2c26PNiGw/edit#gid=0">form</a> to ensure your own personal 301 HW GitHub repo is created for you.  Note that your eID is the username you enter for any university computer system, it is the prefix to your email address. It is not the 9 digits on the top of your student ID, that is your WID. If you have entered your WID instead, you will need to go back and fill out the form again.</li>
 <li>Wait for invitation from CS 301 TAs</li>
 <li>Accept invitation</li>
-<li>Clone your repo (this may be best done via IntelliJ after the Sireum IVE is installed)</li>
+<li>Follow the instructions in Homework 0 to create your repo and link it to GitHub</li>
 </ul>
-<p>You will be able to access the local version of your repo through the Sireum IVE to carry out HW retreival and submission.</p>
 </div>
 <div class="section" id="sireum-logika">
 <h2>Sireum Logika<a class="headerlink" href="#sireum-logika" title="Permalink to this headline">¶</a></h2>
@@ -120,33 +119,115 @@ You need to complete the following steps:</p>
 a natural deduction proof checker for propositional, predicate, and programming
 logics.  Logika is part of a much larger analysis and verification framework developed by <a class="reference external" href="http://people.cis.ksu.edu/~robby">Robby</a> called Sireum.</p>
 <p><strong>It is crucial that you get set up to use Logika during the first week of class. We will use Logika every week in class, and almost all homework assignments will use it.</strong></p>
-<p>There are two ways of getting set up to use Logika (actually, these methods also provide the entire Sireum framework, but we will only use and talk about the Logika part):</p>
+<p>You will need to setup the Sireum IVE (Integrated Verification Environment) which contains Logika.</p>
+<p>Logika can be used in a nice IntelliJ-based Integrated Verification Environment (Sireum/Logika IVE) (this is what we recommend for doing all your classroom exercises and homework).</p>
+<p>The general steps for installation are:</p>
 <ul class="simple">
-<li>[Personal installation] You can install it own your own computer</li>
-<li>[CS Lab installation (direct use and remote desk top)] You can use it via the K-State CS Lab machines</li>
+<li>Watch the initial installation <a class="reference external" href="http://files.sireum.org/media/sireum-ive-win64.mp4">video</a></li>
+<li>Watch the second installation <a class="reference external" href="http://files.sireum.org/media/sireum-ive-examples.mp4">video</a></li>
 </ul>
-<p>Logika can be used in a nice IntelliJ-based Integrated Verification Environment (Sireum/Logika IVE) (this is what we recommend for doing
-all your classroom exercises and homework).
-There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI) (you can use this if you love command line interfaces, but we recommend the IVE).</p>
-<p>For a Personal Installation, please follow the installation instructions on the <a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/index.html">Logika web site</a></p>
-<p>Instructions for using the CS Lab installation will be posted soon.</p>
+<p>When watching the above videos, you will to perform the following downloads:</p>
+<ul class="simple">
+<li>Download the IVE appropriate for your operating system from the download <a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/index.html">website</a></li>
+<li>Download the <a class="reference external" href="https://github.com/sireum/v3-logika-examples">examples project</a>. Download as a zip file</li>
+</ul>
+<p>After completing the instructions in the videos, you should check that you have a java run time installed (&#8220;java -version&#8221; at a command prompt will tell you the version of java installed). If your version is 1.8.0_144 or older you will need to update the Java installation before continuing.</p>
+<p>By following the videos above in order, you should be able to &#8220;install&#8221; the Sireum IVE and integrate the examples project. You may notice a lot of instructions on the Sireum Installation page. These steps are not necessary&#8211;Do not follow them as they may contain obsoltete information.</p>
+<p>It is normal to see modal dialog boxes asking you to choose settings</p>
+<ul class="simple">
+<li>If prompted to import settings, select DO NOT Import Settings</li>
+<li>If prompted to accept the EULA, scroll throught it and accept it</li>
+<li>If prompted for other settings, accept the default</li>
+<li>Intellij will need to connect to the internet, if spammed by your fire-wall about permissions, allow Intellij to talk to the internet</li>
+</ul>
+<p>NOTE for Mac users. The videos are for windows. You will also need to:</p>
+<ul class="simple">
+<li>Read the instructions for Mac installation in <a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/index.html">Section 1.1.1.1</a> of the Logika documentation</li>
+</ul>
+</div>
+<div class="section" id="sireum-on-departmental-resource">
+<h2>Sireum on Departmental Resource<a class="headerlink" href="#sireum-on-departmental-resource" title="Permalink to this headline">¶</a></h2>
+<p>While several &#8220;Desktops&#8221; (the computers in 1118, 1117, 1114) have a Sireum icon in their applications lists, conflicts between the Summer&#8217;s hardware, architecture and Sireum updates have not been been resolved and these &#8220;links&#8221; will not work. As of 16 August your best bet to install Sireum on departmental resources is to install it on your CIS remote windows desktop.</p>
+<p>The Department is working to resolve these issues.</p>
+<p>Installation of Sireum IVE on the CIS Remote Windows Desktop(RWD).</p>
+<ul class="simple">
+<li>It is possible to install the IVE on the CIS RWD</li>
+<li>The RWD already has Git and an appropriate JDK</li>
+<li>You must install Sireum and the examples in your C:/users/your_eid/ folder. If you install them on the C: drive they will get wiped</li>
+</ul>
+<p>ONCE YOU HAVE INSTALLED SIREUM, DO NOT UPDATE INTELLIJ! Intellij will occasionally give you pop-ups sying a new version is available and press to update. Ignore these. Sireum will not be rolled to a new version of Intellij until Summer 2019 and most likely WILL NOT WORK with &#8220;upgraded&#8221; versions. If you update Intellij and Sireum breaks, you will have to reinstall Sireum.</p>
 </div>
 <div class="section" id="z3">
 <h2>Z3<a class="headerlink" href="#z3" title="Permalink to this headline">¶</a></h2>
 <p>Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
 developed at the Research in Software Engineering (RiSE) group in Microsoft
 Research.</p>
-<p>We will use Z3 in one lecture early in the course, and then we will refer to it throughout the rest of the course.</p>
-<p>Fortunately, you do not have to install Z3.</p>
+<p>We will use Z3 early in the course and then we will refer to it throughout the rest of the course.
+There is a web-based <a class="reference external" href="http://rise4fun.com/z3">Online version</a>  which you will use to verify your homework.</p>
+</div>
+<div class="section" id="use-of-git-and-github-in-cs-301">
+<h2>Use of Git and GitHub in CS 301<a class="headerlink" href="#use-of-git-and-github-in-cs-301" title="Permalink to this headline">¶</a></h2>
+<p>Our use of Git and GitHub is intended to familiarize you with the steps necessary to manage a single branch repository that is synchronized between the “official” remote repository and one or more local copies of that repo. From the command line, you are expected to be able to:</p>
 <ul class="simple">
-<li>It is already included in the Sireum Logika installation (in both the Personal installation and CS Lab installations).  It can be found under <code class="docutils literal"><span class="pre">SIREUM_HOME/apps/z3</span></code> (or <code class="docutils literal"><span class="pre">SIREUM_HOME\apps\z3</span></code> in Windows OS).</li>
-<li>There is a web-based <a class="reference external" href="http://rise4fun.com/z3">Online version</a> which is good enough for playing around or doing the Z3-related homework assignment.</li>
+<li>make a local copy of the remote repo(sitory) (git clone &lt;remoteURL&gt;)</li>
+<li>make changes to the local repo (git add .)</li>
+<li>commit changes to the local repo (git commit –m “some message”), and</li>
+<li>push changes to the remote (git push origin master)</li>
 </ul>
-<p>Many interesting analysis, verification, and testing tools (including tools developed by Microsoft) use Z3.  You can find out more about Z3 using the links below:</p>
+<p>To facilitate local-to-remote repository communication. We suggest you set up <a class="reference external" href="https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/">SSH keys</a> on the computers you use and register them with Github.</p>
+<p>If you choose to work with multiple local repositories (say one on your personal computer hard drive and another on a USB you carry), you are responsible for synchronizing them. You will need to use the Git pull command to update each local repository to the “state” that remote is in BEFORE you start working in the local repository.</p>
+<p><strong>Standard work flow &#8211; Ensure your local repo is up to date with the remote</strong></p>
+<p>If you:</p>
 <ul class="simple">
-<li><a class="reference external" href="https://github.com/z3prover/z3/wiki">Website</a></li>
-<li><a class="reference external" href="https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver">Introductory video</a></li>
+<li>ONLY ever use one physical copy for the local repo, AND</li>
+<li>NEVER make changes to the remote repo through the web interface</li>
 </ul>
+<p>THEN your local is up to date
+If you need to make a new local repo, clone the remote to your machine.</p>
+<p>If you are not sure that the local matches the remote, or you know it does not,</p>
+<ul class="simple">
+<li>Pull from the remote ( git pull origin master)</li>
+<li>Open a Git Bash terminal</li>
+<li>Navigate to your repo</li>
+<li>Type &#8220;git pull orign master&#8221;</li>
+<li>Resolve any merge conflicts (hopefully there are none). If you aloways follow this work flow there should be none.</li>
+<li>Make changes to files and folders as necessary for your homework</li>
+</ul>
+<p><strong>Standard work flow &#8211; Commit your changes to the local repo</strong></p>
+<ul class="simple">
+<li>Open a Git Bash terminal</li>
+<li>Navigate to your repo</li>
+<li>Type &#8220;git add .&#8221; to add all changes to the list to commit</li>
+<li>Type &#8220;git commit –m “some message” &#8221; to commit the changes to the local repo. Try and use a meaningful message</li>
+</ul>
+<p><strong>Standard work flow &#8211; Push your changes to the remote</strong></p>
+<ul class="simple">
+<li>Open a Git Bash terminal</li>
+<li>Navigate to your repo</li>
+<li>Type &#8220;git push origin master&#8221; to add all changes to the list to commit</li>
+</ul>
+<p>Optional : Check the Github site for the commit</p>
+<p><strong>Standard work flow &#8211; Cloning</strong></p>
+<p>Occasionally you may need to make a new copy the remote repo. This could be because you are working from a different computer. It could be because something has gone terribly wrong with your existing repo and it will not commit or push to GitHub (very rare). When you need to create a new local repo:</p>
+<ul class="simple">
+<li>Open a Git Bash terminal</li>
+<li>Navigate to the folder/directory you want to put the new local repo</li>
+<li>In a browser,</li>
+<li>surf to the GitHub repo,</li>
+<li>click “Download or Clone …”</li>
+<li>select your protocol</li>
+<li>“Copy” the URL so you can use it</li>
+<li>In the Git Bash terminal, Type &#8220;git clone &lt;URL&gt;&#8221;</li>
+</ul>
+<p><strong>Standard work flow &#8211; If your local repo stops working with GitHub</strong></p>
+<p>In past semesters some students have experienced problems where their local repo stopped communicating GitHub. Inevitably, this occurs when one needs to push a big commit, like an entire homework, and it is close to the due-time.</p>
+<p>First try making a “new-local”, then copy-replace the changed files from the “old-local” to the “new-local”. Git add, commit and push. This generally fixes the problem as the &#8220;corruption&#8221; is typically in hidden .git files not in the user content files.(Be sure to delete the “old local”).</p>
+<p>If there are still problems, you may have an expired credential. The solution is to make a new credential (SSH key, token, saved password, etc.). We cannot guess which type of credential has expired and are not experts at their creation; you will have to figure this out.</p>
+<p>Finally, you can upload files and edit files directly via the GitHub web interface. This should be your last resort. You will need to commit your changes and remember to clone the new commit(s) to a new local directory.</p>
+</div>
+<div class="section" id="git-integration-and-tools">
+<h2>GIT integration and tools<a class="headerlink" href="#git-integration-and-tools" title="Permalink to this headline">¶</a></h2>
+<p>Students are free to integrate Git with Intellij or any number of third party apps (GitGui, GitExtensions, etc). The TAs can offer limited-to-no help on using these tools. As students, you are responsible to know the commands for cloning, adding files/changes, committing and pushing for your local repository.</p>
 </div>
 </div>
 
