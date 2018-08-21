@@ -25,10 +25,10 @@ that match the reality of the domain that are being reasoned.
 The focus will be on formal logics for reasoning about program behavior.
     
 ==================================================  ====================================================================
-**Lectures**                                        Tuesday (T) & Thursday (U), 9:30am - 11:00am, |DUE1073|
+**Lectures**                                        Tuesday (T) & Thursday (U), 9:30am - 10:45am, |DUE1073|
 **Instructor**                                      `John Hatcliff <http://cs.ksu.edu/~hatcliff>`__,
                                                     Office:       2183 |EngHall|,
-                                                    Office Hours: 11-11:45am Tuesday and Thursday,
+                                                    Office Hours: 10:45-11:30am Tuesday and Thursday,
 **Teaching Assistant**                              George (Bud) LaVezzi,
                                                     Office Hours: 3:30 - 4:30 PM, in room 1117, Monday and Wednesday
 **Teaching Assistant**                              Joydeep Mitra,

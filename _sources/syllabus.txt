@@ -78,7 +78,7 @@ Instructor
 
 `John Hatcliff <http://cs.k-state.edu/~hatcliff>`__,
 Office:       2160 |EngHall|,
-Office Hours: 11-11:45am Tuesday and Thursday
+Office Hours: 10:45-11:30am Tuesday and Thursday
 
 
 Graduate Teaching Assistants
