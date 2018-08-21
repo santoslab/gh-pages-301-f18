@@ -44,6 +44,7 @@ Schedule
          [`study guide <https://drive.google.com/file/d/0B3opDhlww1AXZVBFLXNtdXN2WXM/>`__]
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
        * Tool setup: (see `Tools <http://s18.proglogics.santoslab.org/tools/index.html>`__)
+       * HW 0 Assigned (see the Assignments section of 301 Canvas).  Due Monday, Aug 27 at 11:59pm.
    * - 1. U: Aug 23
      - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B2v9RmdjXXbUOWVkSlJYdGhFTlk>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
