@@ -67,7 +67,7 @@ NOTE for Mac users. The videos are for windows. You will also need to:
 
 The examples and homework come with project structures and files already created.  However, there's a good chance that you
 will want to create your own project/files from scratch to work on examples in class or to solve FTYD exercises.
-Here's a `video <https://drive.google.com/drive/u/1/folders/0B2v9RmdjXXbURGplNVZyajgxUk0>`__ that shows you how you
+Here's a `video <https://drive.google.com/open?id=1bi68RC1YCv53nKQzzg2hUzi_E6gm8vQq>`__ that shows you how you
 can create an empty project and an empty file to work on such examples.
 
 
