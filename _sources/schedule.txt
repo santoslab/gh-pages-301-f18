@@ -102,14 +102,14 @@ Schedule
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUaUp1dHZQdWVsVDg>`__]
-     - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
+     - * Reading: `Propositional Logic <http://logika.sireum.org/dschmidt/03-propositional-logic/index.html>`__ (up to Section 3.8)
    * - 5. T: Sep 18
      - * `Natural Deduction -- Or <https://drive.google.com/open?id=0B2v9RmdjXXbUY1FQM2dDZElqZFU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/or>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUZW1SbE81MTNfOEk>`__,
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUMmVJOGpxaXc3ckk>`__,
          `FYTD #3 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUSzFOZGxIbnY2Qnc>`__]
-     - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
+     - * Reading: `Propositional Logic (Section 3.9) <http://logika.sireum.org/dschmidt/03-propositional-logic/index.html#or-introduction-and-or-elimination>`__
        * **Instructor Travel (Assure Workshop in Vasteras, Sweden)**
    * - 5. U: Sep 20
      - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B2v9RmdjXXbUZ3F4STZoMDA5eE0>`__
@@ -118,7 +118,7 @@ Schedule
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNnpCbi1hMkpqaGs>`__]
      - * Reading:
 
-         * `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
+         * `Propositional Logic (Section 3.10) <http://logika.sireum.org/dschmidt/03-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
    * - 6. T: Sep 25
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUX1B1RzJ4dV9jZFE>`__
          [`Lecture video: Bottom Elimination Rule <https://drive.google.com/open?id=0B2v9RmdjXXbUb2tfRDI1YWEyOW8>`__,
