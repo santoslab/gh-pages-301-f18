@@ -95,7 +95,7 @@ Schedule
          (up to Section 3 on Propositional Logic)
    * - 4. T: Sep 11
      - * (Catch up day)
-     -
+     - * `HW 2 Assigned <https://k-state.instructure.com/courses/60895/assignments/706534>`__ (see the Assignments section of 301 Canvas).  Due Monday, Sept 24 at 11:59pm.
    * - 4. U: Sep 13
      - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B2v9RmdjXXbUV2M2N3ZyMUQ1SEE>`__
          [`study guide <https://drive.google.com/open?id=1fb63FQ6X5wkxkXPrRVyuFcMBuX-i3Syf>`__]
