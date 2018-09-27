@@ -116,9 +116,7 @@ Schedule
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/implies>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUcDVtY205RHVWUEk>`__,
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNnpCbi1hMkpqaGs>`__]
-     - * Reading:
-
-         * `Propositional Logic (Section 3.10) <http://logika.sireum.org/dschmidt/03-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
+     - * Reading: `Propositional Logic (Section 3.10) <http://logika.sireum.org/dschmidt/03-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
    * - 6. T: Sep 25
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUX1B1RzJ4dV9jZFE>`__
          [`Lecture video: Bottom Elimination Rule <https://drive.google.com/open?id=0B2v9RmdjXXbUb2tfRDI1YWEyOW8>`__,
@@ -132,6 +130,7 @@ Schedule
          `FYTD #4 <https://drive.google.com/open?id=0B2v9RmdjXXbUeGhaeW5jeFNCeEU>`__,
          `FYTD #5 <https://drive.google.com/open?id=0B2v9RmdjXXbUVVI2YzVjWVB3dEE>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
+       * `HW 3 Assigned <https://k-state.instructure.com/courses/60895/assignments/706536>`__ (see the Assignments section of 301 Canvas).  Due Monday, Oct 1 at 11:59pm.
    * - 6. U: Sep 27
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUX1B1RzJ4dV9jZFE>`__
          [`Lecture video: Bottom Elimination Rule <https://drive.google.com/open?id=0B2v9RmdjXXbUb2tfRDI1YWEyOW8>`__,
