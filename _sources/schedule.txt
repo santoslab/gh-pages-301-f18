@@ -170,22 +170,22 @@ Schedule
          `FYTD #2-2 <https://drive.google.com/open?id=17iMHFM-b1xewmVoccFjIlkb8T1LBjlhL>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. T: Oct 9
-     - * `Exam 1 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam1>`__
-         [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
-         `study guides <https://drive.google.com/open?id=1GTH3P4H0ivfa-8dHLhmFubDZNfhJhAYT>`__]
-     - * Reading: (none)
-   * - 8. U: Oct 11
      - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXZ2hvM2FubElmM0k>`__
          [`Z3 examples <https://drive.google.com/open?id=151ImaYu3l4xGpZopbYe3DZjExQ43qkiS>`__]
          `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
      - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
-   * - 9. T: Oct 16
+   * - 8. U: Oct 11
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__,
          FYTD #1 (`starting file <https://drive.google.com/open?id=1oEt7FJvyiNQwBzxoAGvJrrmbow7722xM>`__, `solution <https://drive.google.com/open?id=1z-k4nwBdxR0U6YA0uNgkBgp8dFsSCVjj>`__),
          FYTD #2 (`starting file <https://drive.google.com/open?id=1pKZbnGEuUFQkm-K9qav3kdllzQk-BAod>`__, `solution <https://drive.google.com/open?id=1ZHOW1-QoBIQh7nRhyX6tOL1dMTusYLWO>`__)]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
+   * - 9. T: Oct 16
+     - * `Exam 1 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam1>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
+         `study guides <https://drive.google.com/open?id=1GTH3P4H0ivfa-8dHLhmFubDZNfhJhAYT>`__]
+     - * Reading: (none)
    * - 9. U: Oct 18
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__,
