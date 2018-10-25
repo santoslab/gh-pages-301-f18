@@ -182,9 +182,11 @@ Schedule
          FYTD #2 (`starting file <https://drive.google.com/open?id=1pKZbnGEuUFQkm-K9qav3kdllzQk-BAod>`__, `solution <https://drive.google.com/open?id=1ZHOW1-QoBIQh7nRhyX6tOL1dMTusYLWO>`__)]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 9. T: Oct 16
-     - * `Exam 1 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam1>`__
+     - * Exam 1
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
-         `study guides <https://drive.google.com/open?id=1GTH3P4H0ivfa-8dHLhmFubDZNfhJhAYT>`__]
+         `study guides <https://drive.google.com/open?id=1GTH3P4H0ivfa-8dHLhmFubDZNfhJhAYT>`__,
+         `student version <https://k-state.instructure.com/files/7525655/download?download_frd=1>`__,
+         `key <https://k-state.instructure.com/files/7525653/download?download_frd=1>`__]
      - * Reading: (none)
    * - 9. U: Oct 18
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
