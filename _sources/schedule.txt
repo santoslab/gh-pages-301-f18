@@ -206,8 +206,10 @@ Schedule
    * - 10. U: Oct 25
      - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [Lecture video: `(conditionals - part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUSW10V3h4VXA3U2c>`__,
-         `conditional #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__,
-         `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__]
+         conditional #1 (`starting file <https://drive.google.com/open?id=1VcleUlTrnbyz3iAZu6bI1etMd0Nb7DpC>`__,
+         `solution <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__)
+         `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__,
+         FYTD #1 (`starting file <https://drive.google.com/open?id=10VEZPpfkUhU11EnbEqf5HCCEo4nKy_4R>`__, `solution <https://drive.google.com/open?id=1Ktn-acV8elXaX99u15XyttXVOiWbrmgc>`__)]
        * [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
          `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
@@ -215,8 +217,10 @@ Schedule
    * - 11. T: Oct 30
      - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [Lecture video: `(conditionals - part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUSW10V3h4VXA3U2c>`__,
-         `conditional #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__,
-         `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__]
+         conditional #1 (`starting file <https://drive.google.com/open?id=1VcleUlTrnbyz3iAZu6bI1etMd0Nb7DpC>`__,
+         `solution <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__)
+         `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__,
+         FYTD #1 (`starting file <https://drive.google.com/open?id=10VEZPpfkUhU11EnbEqf5HCCEo4nKy_4R>`__, `solution <https://drive.google.com/open?id=1Ktn-acV8elXaX99u15XyttXVOiWbrmgc>`__)]
        * [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
          `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
