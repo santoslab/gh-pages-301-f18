@@ -253,7 +253,7 @@ Schedule
          `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
      -
    * - 13. U: Nov 15
-     - * `Exam 2 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam2>`__
+     - * Exam 2 
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__]
      -
    * - A. **Thanksgiving Break**
