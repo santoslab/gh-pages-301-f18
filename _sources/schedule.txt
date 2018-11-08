@@ -232,17 +232,16 @@ Schedule
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
      -
    * - 12. T: Nov 6
-     - * Automated logical reasoning about programs and if/while proof rules
+     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+         [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
+         `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
+         `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
      -
    * - 12. U: Nov 8
-     - * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
-         [`#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
-         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
-         `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
-         `#3 (auto) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/sequence-3.logika>`__,
-         `#3 (symexe) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-3.logika>`__,
-         `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
-     -
+     - * `Functions and Procedures <https://drive.google.com/open?id=1M2HNL_4wicuSavjkv1gGcM4Tg3o8-26n>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
+         `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. T: Nov 13
      - * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
          [`#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
@@ -253,14 +252,14 @@ Schedule
          `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
      -
    * - 13. U: Nov 15
-     - * Exam 2 
+     - * Exam 2
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__]
      -
    * - A. **Thanksgiving Break**
      -
      -
    * - 14. T: Nov 27
-     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
+     - * `Functions and Procedures <https://drive.google.com/open?id=1M2HNL_4wicuSavjkv1gGcM4Tg3o8-26n>`__
          [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
          `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
