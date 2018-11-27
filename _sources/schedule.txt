@@ -243,7 +243,7 @@ Schedule
          `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 13. T: Nov 13
-     - * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
+     - * `Sequences <https://drive.google.com/open?id=10NxBMNTsaudTDIXg9dO31zMuA_AN-zs->`__
          [`#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
          `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
          `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
