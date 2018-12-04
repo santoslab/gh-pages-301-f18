@@ -278,14 +278,13 @@ Schedule
          `swap solution <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
      -
    * - 15. T: Dec 4
+     - * `Data Invariants <https://drive.google.com/open?id=1DVuG8k-raO2v5rQtjXzFqObzeCKsfSd8>`__
+     -
+   * - 15. U: Dec 6
      - * `Termination <https://drive.google.com/open?id=0B3opDhlww1AXU3J0LVl3LUl2OHM>`__
          [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
          Collatz: `Logika <https://github.com/ksu-cis-301/301f16/blob/master/examples/collatz.sc>`__,
          `Java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Collatz.java>`__]
-     -
-   * - 15. U: Dec 6
-     - * Closing Remarks
-       * Review for Final Exam
      -
    * - 16. Wednesday: Dec 12
      - * `Final Exam, Time: 2:00pm - 3:50pm <https://courses.k-state.edu/fall2018/information/xam.html>`__
