@@ -129,7 +129,7 @@ Schedule
          `FYTD #3-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUN3RRS3hHTF9NWVk>`__,
          `FYTD #4 <https://drive.google.com/open?id=0B2v9RmdjXXbUeGhaeW5jeFNCeEU>`__,
          `FYTD #5 <https://drive.google.com/open?id=0B2v9RmdjXXbUVVI2YzVjWVB3dEE>`__]
-     - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
+     - * Reading: `Propositional Logic (Sections 3.11-3.13) <http://logika.sireum.org/dschmidt/03-propositional-logic/index.html#negation>`__
        * `HW 3 Assigned <https://k-state.instructure.com/courses/60895/assignments/706536>`__ (see the Assignments section of 301 Canvas).  Due Monday, Oct 1 at 11:59pm.
    * - 6. U: Sep 27
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUX1B1RzJ4dV9jZFE>`__
@@ -143,7 +143,7 @@ Schedule
          `FYTD #3-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUN3RRS3hHTF9NWVk>`__,
          `FYTD #4 <https://drive.google.com/open?id=0B2v9RmdjXXbUeGhaeW5jeFNCeEU>`__,
          `FYTD #5 <https://drive.google.com/open?id=0B2v9RmdjXXbUVVI2YzVjWVB3dEE>`__]
-     - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
+     - * Reading: `Propositional Logic (Sections 3.11-3.13) <http://logika.sireum.org/dschmidt/03-propositional-logic/index.html#negation>`__
    * - 7. T: Oct 2
      - * Quantifications by Example (no slides for this lecture, only code examples)
          [`Lecture video <https://drive.google.com/open?id=0B2v9RmdjXXbUSV9jWmdOTzFoU1U>`__,
@@ -168,19 +168,19 @@ Schedule
          `FYTD #1-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUeUJLQXpUbEs0TkE>`__,
          `FYTD #2-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUWUVKNVVNVUFCVE0>`__,
          `FYTD #2-2 <https://drive.google.com/open?id=17iMHFM-b1xewmVoccFjIlkb8T1LBjlhL>`__]
-     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
+     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/04-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. T: Oct 9
      - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXZ2hvM2FubElmM0k>`__
          [`Z3 examples <https://drive.google.com/open?id=151ImaYu3l4xGpZopbYe3DZjExQ43qkiS>`__]
          `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
-     - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
+     - * Reading: Circuits that Compute on Numbers: Algebra
    * - 8. U: Oct 11
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__,
          FYTD #1 (`starting file <https://drive.google.com/open?id=1oEt7FJvyiNQwBzxoAGvJrrmbow7722xM>`__, `solution <https://drive.google.com/open?id=1z-k4nwBdxR0U6YA0uNgkBgp8dFsSCVjj>`__),
          FYTD #2 (`starting file <https://drive.google.com/open?id=1pKZbnGEuUFQkm-K9qav3kdllzQk-BAod>`__, `solution <https://drive.google.com/open?id=1ZHOW1-QoBIQh7nRhyX6tOL1dMTusYLWO>`__)]
-     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
+     - * Reading: `Programming Logic for Assignments <http://logika.sireum.org/dschmidt/05-programming-logic/index.html#assignment>`__ (Sections 5.1-5.2)
    * - 9. T: Oct 16
      - * Exam 1
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
@@ -193,18 +193,18 @@ Schedule
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__,
          FYTD #1 (`starting file <https://drive.google.com/open?id=1oEt7FJvyiNQwBzxoAGvJrrmbow7722xM>`__, `solution <https://drive.google.com/open?id=1z-k4nwBdxR0U6YA0uNgkBgp8dFsSCVjj>`__),
          FYTD #2 (`starting file <https://drive.google.com/open?id=1pKZbnGEuUFQkm-K9qav3kdllzQk-BAod>`__, `solution <https://drive.google.com/open?id=1ZHOW1-QoBIQh7nRhyX6tOL1dMTusYLWO>`__)]
-     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
+     - * Reading: `Programming Logic for Assignments <http://logika.sireum.org/dschmidt/05-programming-logic/index.html#assignment>`__ (Sections 5.1-5.2)
    * - 10. T: Oct 23
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [Lecture video: `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUWUQ4TElHMzFtb0U>`__,
          `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__,
          FYTD #1 (`starting file <https://drive.google.com/open?id=1oEt7FJvyiNQwBzxoAGvJrrmbow7722xM>`__, `solution <https://drive.google.com/open?id=1z-k4nwBdxR0U6YA0uNgkBgp8dFsSCVjj>`__),
          FYTD #2 (`starting file <https://drive.google.com/open?id=1pKZbnGEuUFQkm-K9qav3kdllzQk-BAod>`__, `solution <https://drive.google.com/open?id=1ZHOW1-QoBIQh7nRhyX6tOL1dMTusYLWO>`__)]
-     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
+     - * Reading: `Programming Logic for Assignments <http://logika.sireum.org/dschmidt/05-programming-logic/index.html#assignment>`__ (Sections 5.1-5.2)
        * HW 5 Assigned (see the Assignments section of 301 Canvas) `HW 5 direct link <https://k-state.instructure.com/courses/54541/assignments/587936>`__,
          Deadline Wednesday, April 4, 11:59pm
    * - 10. U: Oct 25
-     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+     - * `Programming Logic for Conditionals <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [Lecture video: `(conditionals - part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUSW10V3h4VXA3U2c>`__,
          conditional #1 (`starting file <https://drive.google.com/open?id=1VcleUlTrnbyz3iAZu6bI1etMd0Nb7DpC>`__,
          `solution <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__)
@@ -213,9 +213,9 @@ Schedule
        * [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
          `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
-     - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
+     - * Reading: `Programming Logic for Conditionals <http://logika.sireum.org/dschmidt/05-programming-logic/index.html#conditional-commands>`__
    * - 11. T: Oct 30
-     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+     - * `Programming Logic for Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [Lecture video: `(conditionals - part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUSW10V3h4VXA3U2c>`__,
          conditional #1 (`starting file <https://drive.google.com/open?id=1VcleUlTrnbyz3iAZu6bI1etMd0Nb7DpC>`__,
          `solution <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__)
@@ -226,13 +226,13 @@ Schedule
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
      - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
    * - 11. U: Nov 1
-     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+     - * `Programming Logic for Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
          `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
      -
    * - 12. T: Nov 6
-     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+     - * `Programming Logic for Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
          `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
@@ -241,12 +241,12 @@ Schedule
      - * `Functions and Procedures <https://drive.google.com/open?id=1M2HNL_4wicuSavjkv1gGcM4Tg3o8-26n>`__
          [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
          `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
-     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/07-functions-procedures/index.html>`__
    * - 13. T: Nov 13
      - * `Functions and Procedures <https://drive.google.com/open?id=1M2HNL_4wicuSavjkv1gGcM4Tg3o8-26n>`__
          [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
          `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
-     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/07-functions-procedures/index.html>`__
    * - 13. U: Nov 15
      - * Exam 2
          [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__]
