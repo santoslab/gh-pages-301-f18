@@ -279,6 +279,7 @@ Schedule
      -
    * - 15. T: Dec 4
      - * `Data Invariants <https://drive.google.com/open?id=1DVuG8k-raO2v5rQtjXzFqObzeCKsfSd8>`__
+          [`Java examples <https://drive.google.com/open?id=1DG6GSgQIv-giV0sSAK4x6uM0aPZ6fBiD>`__]
      -
    * - 15. U: Dec 6
      - * `Termination <https://drive.google.com/open?id=0B3opDhlww1AXU3J0LVl3LUl2OHM>`__
