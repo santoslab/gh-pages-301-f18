@@ -256,30 +256,27 @@ Schedule
      -
    * - 14. T: Nov 27
      - * `Sequences <https://drive.google.com/open?id=10NxBMNTsaudTDIXg9dO31zMuA_AN-zs->`__
-         [Lecture video: `Swap Example <https://drive.google.com/open?id=1bF7WiSbBWUU9oopRxwhlS9N2zlpurgo8>`__,
-         `#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
-         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
-         `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
-         `#3 (auto) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/sequence-3.logika>`__,
-         `#3 (symexe) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-3.logika>`__,
-         `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__,
+       * [Lecture video: `Swap Example <https://drive.google.com/open?id=1bF7WiSbBWUU9oopRxwhlS9N2zlpurgo8>`__,
          `swap starting file <https://drive.google.com/open?id=1x0s6o41ppVFlOrZLiAVRkBj7Utfyva22>`__,
-         `swap solution <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
+         `swap solution <https://drive.google.com/open?id=10TeaXhed6s-wIiWWwekXGTWoF5zD2lhd>`__]
+       * [squares example:
+         `squares starting file <https://drive.google.com/open?id=1L3wGgTY0hH4yZtArI6UR8JsIILvzgqyr>`__,
+         `squares solution <https://drive.google.com/open?id=1_IxqtXkxLAjV_jMQ8-RpbqsosVOdzFY5>`__]
      -
    * - 14. U: Nov 29
      - * `Sequences <https://drive.google.com/open?id=10NxBMNTsaudTDIXg9dO31zMuA_AN-zs->`__
-         [Lecture video: `Swap Example <https://drive.google.com/open?id=1bF7WiSbBWUU9oopRxwhlS9N2zlpurgo8>`__,
-         `#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
-         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
-         `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
-         `#3 (auto) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/sequence-3.logika>`__,
-         `#3 (symexe) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-3.logika>`__,
+       * [Lecture video: `Swap Example <https://drive.google.com/open?id=1bF7WiSbBWUU9oopRxwhlS9N2zlpurgo8>`__,
          `swap starting file <https://drive.google.com/open?id=1x0s6o41ppVFlOrZLiAVRkBj7Utfyva22>`__,
-         `swap solution <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
+         `swap solution <https://drive.google.com/open?id=10TeaXhed6s-wIiWWwekXGTWoF5zD2lhd>`__]
+       * [squares example:
+         `squares starting file <https://drive.google.com/open?id=1L3wGgTY0hH4yZtArI6UR8JsIILvzgqyr>`__,
+         `squares solution <https://drive.google.com/open?id=1_IxqtXkxLAjV_jMQ8-RpbqsosVOdzFY5>`__]
      -
    * - 15. T: Dec 4
      - * `Data Invariants <https://drive.google.com/open?id=1DVuG8k-raO2v5rQtjXzFqObzeCKsfSd8>`__
-          [`Java examples <https://drive.google.com/open?id=1DG6GSgQIv-giV0sSAK4x6uM0aPZ6fBiD>`__]
+       * [`bank account starting file <https://drive.google.com/open?id=1R_2mynCHSZeBgImYN1nVaL8atQoYJ-IY>`__,
+         `bank account solution <https://drive.google.com/open?id=11kNO8DNrGr6CK0susARwjlPVzh9Z5UTU>`__]
+       * [`Java examples <https://drive.google.com/open?id=1DG6GSgQIv-giV0sSAK4x6uM0aPZ6fBiD>`__]
      -
    * - 15. U: Dec 6
      - * `Termination <https://drive.google.com/open?id=0B3opDhlww1AXU3J0LVl3LUl2OHM>`__
